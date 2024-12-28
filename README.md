@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sruthimukundhan&label=Profile%20views&color=0e75b6&style=flat" alt="sruthimukundhan" /> </p>
 
-- 🔭 I’m currently working on **Hacking and Phising**
+- 🔭 I’m currently working on **Hacking and Phishing**
 
 - 🌱 I’m currently learning **Java,Assembly Language,Ruby,Blunder and so on.....**
 
