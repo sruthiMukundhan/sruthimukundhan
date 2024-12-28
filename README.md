@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sruthi MP</h1>
-<h3 align="center">A passionate developer and student at Bannari Amman Institute of Technology. I specialize in multiple programming languages, including C, C++, Java, Python, SQL, HTML, CSS, Ruby, and more. My primary focus is on software development, and I enjoy working on various coding projects, from web development to automation. I am also dedicated to preparing for civil exams, which enhances my problem-solving and analytical skills. In my free time, I listen to music to stay inspired and maintain a creative mindset. Feel free to explore my repositories and projects, and let's collaborate! I'm always excited to learn and contribute to innovative solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sruthimukundhan&label=Profile%20views&color=0e75b6&style=flat" alt="sruthimukundhan" /> </p>
 
@@ -7,20 +6,8 @@
 
 - 🌱 I’m currently learning **Java,Assembly Language,Ruby,Blunder and so on.....**
 
-- 👯 I’m looking to collaborate on [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing)
-
-- 👨‍💻 All of my projects are available at [PROTOFILE.COM](PROTOFILE.COM)
-
-- 📝 I regularly write articles on [BLOG.COM](BLOG.COM)
-
-- 💬 Ask me about **Hacking,Programming,Content Writing,Custom Products and Developing**
-
 - 📫 How to reach me **sruthimukundhan03@gmail.com**
-
-- 📄 Know about my experiences [RESUME.COM](RESUME.COM)
-
-- ⚡ Fun fact **#SheWithDreams**
-
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sruthimp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sruthimp" height="30" width="40" /></a>
