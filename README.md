@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sruthi MP</h1>
-<h3 align="center">Hello, I’m a passionate software developer and student at Bannari Amman Institute of Technology. I specialize in multiple programming languages, including C, Java, SQL, HTML, CSS, Ruby, and more. My primary focus is on software development, with a particular interest in front-end development and UI/UX design. I am dedicated to creating intuitive, user-friendly interfaces and delivering seamless user experiences. Alongside my development work, I am actively preparing for civil exams, which has significantly enhanced my problem-solving and analytical abilities. In my downtime, I enjoy listening to music, which helps me stay motivated and fosters a creative mindset. Feel free to explore my repositories and projects. I am always open to collaboration opportunities and look forward to contributing to innovative solutions in the tech space.</h3>
+<h3 align="center">Hello, I’m a software developer and student at Bannari Amman Institute of Technology. I specialize in C, Java, SQL, HTML, CSS, Ruby, and more. My focus is on software development, particularly front-end development and UI/UX design. I aim to create intuitive user experiences through clean and efficient code. I’m also preparing for civil exams, which sharpens my problem-solving and analytical skills. Explore my repositories and projects—let's collaborate!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sruthimukundhan&label=Profile%20views&color=0e75b6&style=flat" alt="sruthimukundhan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sruthimukundhan" alt="sruthimukundhan" /></a> </p>
 
 - 🔭 I’m currently working on **DSA and SQL**
 
